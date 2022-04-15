@@ -1,5 +1,6 @@
-# Code_Petersen_Voroslakos_JNP_2022
- This is the Matlab code for: Brain temperature affects quantitative features of hippocampal sharp wave ripples. Peter C. Petersen, Mihály Vöröslakos, György Buzsáki. Accepted in Journal of Neurophysiology,  April 2022. [Available on bioRxiv](https://www.biorxiv.org/content/10.1101/2022.01.21.477285v1).
+# Matlab code for Petersen Voroslakos & Buzsaki, JNP, April 2022
+
+This is the Matlab code for: Brain temperature affects quantitative features of hippocampal sharp wave ripples. Peter C. Petersen, Mihály Vöröslakos, György Buzsáki. Accepted in Journal of Neurophysiology,  April 2022. [Available on bioRxiv](https://www.biorxiv.org/content/10.1101/2022.01.21.477285v1).
  
 ## Abstract
 
